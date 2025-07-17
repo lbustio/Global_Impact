@@ -1,0 +1,40 @@
+SLIDE 1 – PORTADA
+Título: Identificación de patrones de desinformación en medios de comunicación
+Subtítulo: Proyecto presentado por Luisa Fernanda y Octavio
+ODS: 16, 4, 9
+Logo Intel + logo universidad
+Fondo: imagen relacionada con medios digitales o fake news
+
+SLIDE 2 – EL PROBLEMA
+Título: ¿Por qué este proyecto?
+Visual: redes sociales, fake news, emojis, titulares engañosos
+Frases:
+- “Las redes sociales son fuente principal de información... y de desinformación.”
+- “La desinformación afecta la confianza, decisiones y cohesión social.”
+
+SLIDE 3 – NUESTRA SOLUCIÓN
+Título: Una IA explicable contra las fake news
+Visual: diagrama o flujo: texto/imágenes → IA → resultado explicable
+Frases:
+- Análisis lingüístico, psicológico y de redes
+- Clasificación en rumores, titulares engañosos, etc.
+
+SLIDE 4 – TECNOLOGÍA Y ÉTICA
+Título: Tecnología responsable
+Visual: logos de BERT, NLP, Explainable AI, privacidad, candado
+Frases:
+- Machine learning, grafos de conocimiento
+- IA explicable, transparente, ética
+
+SLIDE 5 – IMPACTO
+Título: ¿A quién ayudamos?
+Visual: íconos de periodista, maestro, estudiante, ONG, + logos de ODS
+Frases:
+- Promueve pensamiento crítico y confianza en la información
+- Aplicable en educación, medios y política pública
+
+SLIDE 6 – CIERRE
+Título: Gracias
+Frases:
+- “Una sociedad informada es una sociedad más libre.”
+- ¡Gracias por su atención!
